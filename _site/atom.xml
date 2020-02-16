@@ -4,7 +4,7 @@
  <title>Shantanu Prakash</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-02-16T16:47:24+05:30</updated>
+ <updated>2020-02-16T16:52:25+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shantanu Prakash</name>
@@ -13,11 +13,13 @@
 
  
  <entry>
-   <title>Frugal travels</title>
-   <link href="http://localhost:4000/2017/01/03/frugal-travels/"/>
-   <updated>2017-01-03T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2017/01/03/frugal-travels</id>
-   <content type="html">&lt;p&gt;What are some good ways to travel without spending too much? :&lt;/p&gt;
+   <title>New Blog</title>
+   <link href="http://localhost:4000/2020/02/16/frugal-travels/"/>
+   <updated>2020-02-16T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/02/16/frugal-travels</id>
+   <content type="html">&lt;p&gt;Posting an update of an archived post from Quora, for the first one.&lt;/p&gt;
+
+&lt;p&gt;What are some good ways to travel without spending too much? :&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Not doing tourist-y things while travelling. Try and stay with locals, use public transport, get recommendations from locals about stuff around. Staying away from what most tour packages suggest, can save you spending on aggravated commercialized pricing. Tourist places (like monuments, museums) and activities rip you off too. And personally, I feel the travel experience is much better too if you go and do as the locals do instead of being herded around by guides!&lt;/p&gt;
