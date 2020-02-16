@@ -22,7 +22,7 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
-instagram:
-  url   : https://www.instagram.com/darn.toodles
-  icon  : fab fa-instagram
+linkedin:
+  url   : https://www.linkedin.com/in/shantanuprakash3
+  icon  : fab fa-linkedin-in
   color : 007bb5
