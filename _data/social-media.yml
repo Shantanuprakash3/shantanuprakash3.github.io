@@ -17,12 +17,13 @@ twitter:
   fa-icon: 'fa-twitter-square'
 
 github:
-  id: 'https://www.github.com/shantanuprakash3'
-  href: 'shantanuprakash3'
+  id: 'shantanuprakash3'
+  href: 'https://gitchub.com/shantanuprakash3'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
 linkedin:
-  url   : https://www.linkedin.com/in/shantanuprakash3
-  icon  : fab fa-linkedin-in
-  color : 007bb5
+  id: Shantanu Prakash
+  href: 'https://www.linkedin.com/in/shantanuprakash3'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
