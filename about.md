@@ -2,10 +2,13 @@
 layout: page
 title: About
 ---
+## Hi! I'm Shantanu.
 
 ![Here I am checking out Ha Long Bay!](/assets/rsz_img_20190901_150405.jpg)
 
-Hi! i'm Shantanu. That's me trying not to fall off the boat. Ha Long Bay, Sep '19.
+That's me trying not to fall off the boat. Ha Long Bay, Sep '19.
+
+---
 
 Living in Bangalore since June 2016. Currently, I work at [Trell](http://trell.co), India's largest lifestyle blogging/vlogging app. I help make sure we're ready for scale, and always high performant.
 

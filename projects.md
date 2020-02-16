@@ -2,9 +2,6 @@
 layout: page
 title: projects
 ---
-## <br>
-
-> Jazz drumming, fiction, war history, running, physics, philosophy, caffiene, languages, human behavior, economics
 
 -----
 
@@ -50,6 +47,11 @@ Israeli Nanotech Companies.
 * **Computer Science** Machine Learning, Data Mining, Network programming, Image processing, Pattern Recognition.
 * **Humanities** Human Resource Development, Applied Philisophy,
 Computer Mediated Communication, Conflict Management, Linguistics.
+
+-----
+## interests
+
+> Jazz drumming, fiction, war history, running, physics, philosophy, caffiene, languages, human behavior, economics
 
 -----
 
