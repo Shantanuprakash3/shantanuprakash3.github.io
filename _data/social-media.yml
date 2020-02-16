@@ -6,18 +6,23 @@ email:
 
 facebook:
   id: 'Shantanu Prakash'
-  href: 'https://www.facebook.com/shantanuprakash706'
+  href: 'https://facebook.com/shantanuprakash706'
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
 
 twitter:
   id: 'shantanuprak'
-  href: 'https://www.twitter.com/shantanuprak'
+  href: 'https://twitter.com/shantanuprak'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
 github:
-  id: 'shantanuprakash3'
-  href: 'https://github.com/shantanuprakash3'
+  id: 'https://www.github.com/shantanuprakash3'
+  href: 'shantanuprakash3'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
+
+instagram:
+  url   : https://www.instagram.com/darn.toodles
+  icon  : fab fa-instagram
+  color : 007bb5
