@@ -42,6 +42,10 @@ author:
   url: https://twitter.com/shantanupracash
   email: shantanuprakash3@gmail.com
 
+# Social media fonts
+font-awesome:
+  assets: true
+
 # Custom vars
 version: 3.0.0
 github:

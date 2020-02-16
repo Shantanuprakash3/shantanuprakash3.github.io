@@ -16,5 +16,3 @@ Before that, I went to [Department of Computer Science, BITS Pilani](https://www
 And before that, I finished my high school from [JVM Shyamali](http://jvmshyamali.com/) in [Ranchi](https://www.tripadvisor.in/Tourism-g662320-Ranchi_Ranchi_District_Jharkhand-Vacations.html?fid=dee83ba9-324b-4587-b373-b81513eb49a3). 
 
 In Ranchi, I spent majority of eighteen years cycling to the bookstore, and nibbling on [samosas](https://www.zomato.com/ranchi/samosa-planet-kadru) on the way back. Growing up with two sisters, my negotiating skills can be traced back to the skirmishes of the Great Bickering Sibling Battles of this era. Growing up in the city, went [here](https://en.wikipedia.org/wiki/Bishop_Westcott_Boys%27_School) for kindergarten and [here](https://en.wikipedia.org/wiki/DAV_Kapil_Dev_Public_School) for middle school.
-
-If you like my website, you can follow me on twitter [@shantanupracash](https://twitter.com/shantanupracash).

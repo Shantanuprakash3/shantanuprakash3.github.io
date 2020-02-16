@@ -1,0 +1,23 @@
+email:
+  id: 'shantanuprakash3@gmail.com.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'Shantanu Prakash'
+  href: 'https://www.facebook.com/shantanuprakash.706'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'shantanuprak'
+  href: 'https://www.twitter.com/shantanuprak'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'shantanuprakash3'
+  href: 'https://github.com/shantanuprakash3'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
