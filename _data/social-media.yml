@@ -6,13 +6,13 @@ email:
 
 facebook:
   id: 'Shantanu Prakash'
-  href: 'https://www.facebook.com/shantanuprakash706'
+  href: 'https://facebook.com/shantanuprakash706'
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
 
 twitter:
   id: 'shantanuprak'
-  href: 'https://www.twitter.com/shantanuprak'
+  href: 'https://twitter.com/shantanuprak'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
