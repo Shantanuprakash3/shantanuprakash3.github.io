@@ -7,11 +7,9 @@
 
 **Shantanu Prakash**
 - <https://github.com/shantanuprakash3>
-- <https://twitter.com/shantanupracash>
+- <https://twitter.com/shantanuprak>
 
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Open sourced under the [MIT license](LICENSE.md). <3

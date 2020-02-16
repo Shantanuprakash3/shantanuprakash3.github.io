@@ -27,3 +27,9 @@ linkedin:
   href: 'https://www.linkedin.com/in/shantanuprakash3'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
+
+Instagram:
+  id: Shantanu Prakash
+  href: 'https://www.instagram.com/darn.toodles'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'

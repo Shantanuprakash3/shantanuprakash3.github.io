@@ -32,14 +32,14 @@ sass:
 ga_analytics: UA-158593816-1
 
 pages_list:       
+  Work : '/projects'
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
-
 # Specify the author for blog posts
 author:
   name: Shantanu Prakash
-  url: https://twitter.com/shantanupracash
+  url: https://twitter.com/shantanuprak
   email: shantanuprakash3@gmail.com
 
 # Social media fonts
