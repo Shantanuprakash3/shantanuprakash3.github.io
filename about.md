@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Here I am checking out Vietnamese sea food!](/assets/rsz_img_1812.JPG)
+![Here I am checking out Ha Long Bay!](/assets/rsz_img_20190901_150405.jpg)
 
 I work at [Trell](http://trell.co), writing scalable and available distributed systems. 
 Trell is India's largest lifestyle blogging/vlogging app. 
