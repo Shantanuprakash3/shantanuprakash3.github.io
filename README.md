@@ -1,4 +1,4 @@
-# finally a blog!
+# finally, a blog
 
 [Jekyll](http://jekyllrb.com) based blog. It's designed and developed by [@mdo](https://twitter.com/mdo).
 
