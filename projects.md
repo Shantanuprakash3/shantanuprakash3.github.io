@@ -25,7 +25,7 @@ Research [work](https://www.slideshare.net/secret/13QncxCbCXJr0Y) yet to be publ
 -----
 
 ## 2014
-* Second year of college, got interested in a fascinating application of algorithms, in quantitative finance. Did a lot of self reading while interning at [Hedge Quants](https://www.glassdoor.co.in/Overview/Working-at-Hedge-Quants-ltd-EI_IE1022637.11,27.htm) in Kolkata over the winters. There, I developed & executed quantitative trading strategies which included ideating a breakout inspired algorithm, back-testing on historical data of CNX midcap, optimization of parameters, and hence simulation of strategy. 
+* Second year of college, got interested in a fascinating application of algorithms, in quantitative finance. Did a lot of self reading while interning at [Hedge Quants](https://www.glassdoor.co.in/Overview/Working-at-Hedge-Quants-ltd-EI_IE1022637.11,27.htm) in Kolkata over the winters. There, I developed & executed quantitative trading strategies which included ideating a breakout inspired algorithm, back-testing on historical data of CNX midcap 100, optimization of parameters, and hence simulation of strategy. 
 
 * Freelanced for a Quant Researcher, Founder of [Qcfinance.in](https://qcfinance.in) helping in research and writing MATLAB code for multiple papers. Thesis validation, 
 simulation, setting up graphs and heatmaps. Invovled in following papers:
@@ -41,7 +41,7 @@ Israeli Nanotech Companies.
 
 ## 2013
 
-* Co-founded adhyayan.co, a project collaboration [portal](https://www.slideshare.net/secret/8WEY8QBTFBJ58A) for academicians, with my high school friends. As Indian tech startup ecosystem started gaining momentum, this was our attempt in getting involed. Initial research, product brainstorming, designed and developed MVP. We entered quite a few [b-plan/startup](https://timesofindia.indiatimes.com/business/india-business/Global-Entrepreneurship-Summit-held-at-IIT-Kharagpur/articleshow/28750090.cms) competitions during this time in hopes of raising enough money to pay for servers and marketing, reached finals in a few but couldn't win anything big. We thought we were short on time as 2nd years, and us studying in 4 different Universities in different cities didn't help.
+* Co-founded adhyayan.co, a project collaboration [portal](https://www.slideshare.net/secret/8WEY8QBTFBJ58A) for academicians, with my high school friends. As Indian tech startup ecosystem started gaining momentum, this was our attempt in getting involed. Initial research, product brainstorming, designed and developed MVP. We entered quite a few [b-plan/startup](https://www.facebook.com/ecell.iitkgp/posts/shortlisted-entries-for-app-ideation-contest1-raviteja4145gmailcom-ges-id-49512-/10152575294578266/) competitions during this time in hopes of raising enough money to pay for servers and marketing, reached finals in a few but couldn't win anything big. We thought we were short on time as 2nd years, and us studying in 4 different universities in different cities didn't help.
 
 -----
 
