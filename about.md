@@ -10,10 +10,10 @@ That's me trying not to fall off the boat. Ha Long Bay, Sep '19.
 
 ---
 
-Living in Bangalore since June 2016. Currently, I work at [Trell](http://trell.co), India's largest lifestyle blogging/vlogging app. I help make sure we're ready for scale, and always high performant.
+Living in Bangalore since June '16. Currently, I work at [Trell](http://trell.co), India's largest lifestyle blogging/vlogging app. I help make sure we're ready for scale, and always high performant.
 
 
-Before working at Trell, I was with [Exotel](http://exotel.com) for a little more than 3 years, where i wrote and broke a lot of code, working with few excellent people. 
+Before working at Trell, I was with [Exotel](http://exotel.com) for a little more than 3 years, where i wrote and broke a lot of code, working with few excellent people. We made sure millions of calls and sms's go with minimal latency and high fault taulerance.
 
 Before that, I went to [Department of Computer Science, BITS Pilani](https://www.bits-pilani.ac.in/pilani/computerscience/ResearchLabs) studying in [Pilani](https://en.wikipedia.org/wiki/Pilani). Was arguably the most transformative period of my life. 
 And before that, I finished my high school from [JVM Shyamali](http://jvmshyamali.com/) in [Ranchi](https://www.tripadvisor.in/Tourism-g662320-Ranchi_Ranchi_District_Jharkhand-Vacations.html?fid=dee83ba9-324b-4587-b373-b81513eb49a3). 
