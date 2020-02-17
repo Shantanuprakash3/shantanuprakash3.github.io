@@ -25,7 +25,7 @@ Research [work](https://www.slideshare.net/secret/13QncxCbCXJr0Y) yet to be publ
 -----
 
 ## 2014
-* Second year of college, got interested in a fascinating application of algorithms, in quantitative finance. Did a lot of self reading while interning at [Hedge Quants](https://www.glassdoor.co.in/Overview/Working-at-Hedge-Quants-ltd-EI_IE1022637.11,27.htm) in Kolkata over the winters. There, I developed & executed quantitative trading strategies which included ideating a breakout inspired algorithm, back-testing on historical data of CNX midcap 100, optimization of parameters, and hence simulation of strategy. 
+* Second year of college, got interested in a fascinating application of algorithms, in quantitative finance. Did a lot of self reading while interning at [Hedge Quants](https://www.linkedin.com/company/hedge-quants/about/) in Kolkata over the winters. There, I developed & executed quantitative trading strategies which included ideating a breakout inspired algorithm, back-testing on historical data of CNX midcap 100, optimization of parameters, and hence simulation of strategy. 
 
 * Freelanced for a Quant Researcher, Founder of [Qcfinance.in](https://qcfinance.in) helping in research and writing MATLAB code for multiple papers. Thesis validation, 
 simulation, setting up graphs and heatmaps. Invovled in following papers:
