@@ -47,8 +47,8 @@ Israeli Nanotech Companies.
 
 ## courses
 * **Computer Science** Machine Learning, Data Mining, Network programming, Image processing, Pattern Recognition.
-* **Humanities** Human Resource Development, Applied Philisophy,
-Computer Mediated Communication, Conflict Management, Linguistics.
+* **Humanities** Applied Philosophy, Conflict Management, Linguistics,
+Human Resource Development and Computer Mediated Communication, .
 
 -----
 ## interests
