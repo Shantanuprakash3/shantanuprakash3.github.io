@@ -10,7 +10,7 @@ That's me trying not to fall off the boat. Ha Long Bay, Sep '19.
 
 ---
 
-Living in Bangalore since June '16. Currently, I work at [Trell](http://trell.co), India's largest lifestyle blogging/vlogging app. I help make sure we're ready for scale, and always high performant.
+Living in Bangalore since June '16. Currently, I work at [Trell](http://trell.co), India's largest lifestyle video blogging app. I help make sure we're ready for scale, and always high performant.
 
 
 Before working at Trell, I was with [Exotel](http://exotel.com) for a little more than 3 years, where i wrote and broke a lot of code, working with few excellent people. We made sure everyday millions of calls and sms's go with minimal latency and high fault taulerance.
