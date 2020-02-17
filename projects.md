@@ -34,12 +34,11 @@ Research [work](https://www.slideshare.net/secret/13QncxCbCXJr0Y) yet to be publ
 Observing International Business between India and
 Israeli Nanotech Companies.
  
-* Was generally active in college clubs and societies. Cofounded [coding club](https://github.com/CodingClubBITSP), led development across Web, mobile, gamedev and competitive programming. Manager for close to 30 projects being presented in Apogee. Was Team Lead in Oasis 2014, Apogee 2015. I also led development and management for Google DevFest 2013/14. Created multiple web games like google maps API powered treasure hunt, Counter strike in BITS campus etc.
 
 -----
 
 ## 2013
-* Marketing/Operations volunteer for TED event, [TEDxBITSPilani](https://www.ted.com/tedx/events/8112) in Pilani, Rajasthan. Organizing member for the March event "Pursuit of Happiness". Speakers like Debjani Ghosh (Intel MD), Rajit Kapur (Theatre), Rajiv Jayaraman (CEO, Knolskape), Benny Prasad (Guitarist/Traveller), Rajat Barmecha (Udaan), Rajiv Lakshman (Roadies, MTV) and Arati Kadav (Writer/Director) had shared the dice. 
+
 * Co-founded adhyayan.co, a project collaboration [portal](https://www.slideshare.net/secret/8WEY8QBTFBJ58A) for academicians, with my high school friends. As Indian tech startup ecosystem started gaining momentum, this was our attempt in getting involed. Initial research, product brainstorming, designed and developed MVP. We entered quite a few [b-plan/startup](https://timesofindia.indiatimes.com/business/india-business/Global-Entrepreneurship-Summit-held-at-IIT-Kharagpur/articleshow/28750090.cms) competitions during this time in hopes of raising enough money to pay for servers and marketing, reached finals in a few but couldn't win anything big. We were always short on time as 2nd years, and us studying in 4 different Universities in different cities didn't help.
 
 -----
