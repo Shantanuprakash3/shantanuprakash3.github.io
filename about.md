@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-## Hi! I'm Shantanu.
+**Hi! I'm Shantanu.**
 
 ![Here I am checking out Ha Long Bay!](/assets/rsz_img_20190901_150405.jpg)
 

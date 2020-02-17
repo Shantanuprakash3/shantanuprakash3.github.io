@@ -9,7 +9,8 @@ Algorithms, Machine intelligence and entreprenership. Fascinated by computing an
 
 -----
 
-A reverse chronological (roughly) timeline:
+An incomplete, rough reverse chronological timeline
+of what I've been upto:
 
 -----
 
