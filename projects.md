@@ -41,7 +41,7 @@ Israeli Nanotech Companies.
 
 ## 2013
 
-* Co-founded adhyayan.co, a project collaboration [portal](https://www.slideshare.net/secret/8WEY8QBTFBJ58A) for academicians, with my high school friends. As Indian tech startup ecosystem started gaining momentum, this was our attempt in getting involed. Initial research, product brainstorming, designed and developed MVP. We entered quite a few [b-plan/startup](https://www.facebook.com/ecell.iitkgp/posts/shortlisted-entries-for-app-ideation-contest1-raviteja4145gmailcom-ges-id-49512-/10152575294578266/) competitions during this time in hopes of raising enough money to pay for servers and marketing, reached finals in a few but couldn't win anything big. We thought we were short on time as 2nd years, and us studying in 4 different universities in different cities didn't help.
+* Co-founded adhyayan.co, a project collaboration [portal](https://github.com/Shantanuprakash3/cms) for academicians, with my high school friends. As Indian tech startup ecosystem started gaining momentum, this was our attempt in getting involed. Initial research, [product](https://www.slideshare.net/secret/8WEY8QBTFBJ58A) brainstorming, designed and developed MVP. We entered quite a few [b-plan/startup](https://www.facebook.com/ecell.iitkgp/posts/shortlisted-entries-for-app-ideation-contest1-raviteja4145gmailcom-ges-id-49512-/10152575294578266/) competitions during this time in hopes of raising enough money to pay for servers and marketing, reached finals in a few but couldn't win anything big. We thought we were short on time as 2nd years, and us studying in 4 different universities in different cities didn't help.
 
 -----
 
