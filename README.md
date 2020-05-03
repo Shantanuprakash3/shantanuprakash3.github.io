@@ -7,7 +7,7 @@
 
 **Shantanu Prakash**
 - <https://github.com/shantanuprakash3>
-- <https://twitter.com/shantanuprak>
+- <https://twitter.com/darntoodles>
 
 
 ## License
