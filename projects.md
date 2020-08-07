@@ -12,6 +12,11 @@ Algorithms, Machine intelligence and entreprenership. Fascinated by computing an
 An incomplete, rough reverse chronological timeline
 of what I've been upto:
 
+
+## 2016 - Present
+
+Throughout college, did a breadth first traversal of Computer Science in general. Didn't get expertise in anything. Working as Engineer in Bangalore for past few years, picking things and learning things in depth all over again.
+
 -----
 
 
