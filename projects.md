@@ -16,7 +16,6 @@ of what I've been upto:
 
 ## 2016 - Present
 
------
 
 Throughout college, did a breadth first traversal of Computer Science in general. Explored things and made friends, exercised the newfound liberty a bit. Didn't get "expertise" in anything though, nor a stellar GPA, realized this mistake later.
 
