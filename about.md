@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+---
+
 **Hi! I'm Shantanu.**
 
 ![Here I am checking out Ha Long Bay!](/assets/rsz_img_20190901_150405.jpg)
@@ -10,8 +12,9 @@ That's me trying not to fall off the boat. Ha Long Bay, Sep '19.
 
 ---
 
-Living in Bangalore since June '16. Currently, I work at [Trell](http://trell.co), India's largest lifestyle video blogging app. I help make sure we're ready for scale, and always high performant.
+Living in Bangalore since June '16. Have been learning more about the self and others during the #pandemic of 2020. 
 
+Before this, I was working at [Trell](http://trell.co), India's largest lifestyle video blogging app. I helped make sure the backend is ready for scale, and always high performant. Saw through scale up of 20x, learning a lot from the team and the experiences we shared.
 
 Before working at Trell, I was with [Exotel](http://exotel.com) for a little more than 3 years, where i wrote and broke a lot of code, working with few excellent people. We made sure everyday millions of calls and sms's go with minimal latency and high fault taulerance.
 

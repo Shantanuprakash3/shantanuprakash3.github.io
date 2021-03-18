@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Shantanu Prakash</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-02-16T16:52:25+05:30</updated>
- <id>http://localhost:4000</id>
+ <title>Notes</title>
+ <link href="https://shantanuprakash3.github.io//atom.xml" rel="self"/>
+ <link href="https://shantanuprakash3.github.io//"/>
+ <updated>2020-02-18T01:42:41+05:30</updated>
+ <id>https://shantanuprakash3.github.io/</id>
  <author>
    <name>Shantanu Prakash</name>
    <email>shantanuprakash3@gmail.com</email>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>New Blog</title>
-   <link href="http://localhost:4000/2020/02/16/frugal-travels/"/>
+   <title>new blog</title>
+   <link href="https://shantanuprakash3.github.io//2020/02/16/new-blog/"/>
    <updated>2020-02-16T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/02/16/frugal-travels</id>
+   <id>https://shantanuprakash3.github.io//2020/02/16/new-blog</id>
    <content type="html">&lt;p&gt;Posting an update of an archived post from Quora, for the first one.&lt;/p&gt;
 
 &lt;p&gt;What are some good ways to travel without spending too much? :&lt;/p&gt;
@@ -25,16 +25,17 @@
   &lt;p&gt;Not doing tourist-y things while travelling. Try and stay with locals, use public transport, get recommendations from locals about stuff around. Staying away from what most tour packages suggest, can save you spending on aggravated commercialized pricing. Tourist places (like monuments, museums) and activities rip you off too. And personally, I feel the travel experience is much better too if you go and do as the locals do instead of being herded around by guides!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Two weeks covering New York, Buffalo, San Francisco, Los Angeles AND Las Vegas i spent little above 1100 dollars. 14 days, five cities. This is definitely not a dirt cheap number but we covered much more than what it would normally cover. There were three of us, still in third year of college, attending an IEEE conference presenting our research paper in Vegas. We were students spending Rupees in Dollars, so had to be frugal. But we didn’t want a not-so-fun super-lean trip to the conference, so prior planning and booking had to be done.&lt;/p&gt;
+&lt;p&gt;Two weeks covering New York, Buffalo, San Francisco, Los Angeles &lt;em&gt;AND&lt;/em&gt; Las Vegas, I spent a little above 1100 USD. 14 days, five cities. This is definitely not a dirt cheap number but we covered much more than what it would normally cover. There were three of us, still in third year of college, attending an IEEE conference presenting our research paper in Vegas. We were students spending Rupees in Dollars, so had to be frugal. But we didn’t want a not so fun super lean trip to the conference, so prior planning and bookings had to be done.&lt;/p&gt;
 
-&lt;p&gt;Got week or day pass for metro / bus in every city. Airbnb (not in Vegas, of course :P) for stays, carrying few ready to eat meals from home helped a lot. This was a great way to meet locals and chat about things people do there. We took intercity bus rides. And we walked around a lot in the cities. Never took cabs. Sometimes we travelled at night so we don’t have to spend for night stay.&lt;/p&gt;
+&lt;p&gt;Got week or day passes for metro / bus in every city, specially helpful in NYC nd LA. Airbnb (not in Vegas, of course :P) for stays, carrying few ready to eat meals from home helped a lot. This was a great way to meet locals and chat about things people do there. We took intercity bus rides. And we walked around a lot in the cities, never took cabs. Sometimes we travelled at night so we don’t have to spend for night stay.&lt;/p&gt;
 
-&lt;p&gt;We did cover a lot, many of which can be skipped. We had a brunch in a Michelin starred restaurant, Watched a Yankees game, Stayed in big ass hotels on the Vegas strip. Tried expensive exotic seafood and cheap local beers!&lt;/p&gt;
+&lt;p&gt;We did cover a lot, many of which can be skipped. We had a brunch in a Michelin starred restaurant, watched a Yankees game, stayed in big ass hotels on the Vegas strip. Tried expensive exotic seafood and cheap local beers!&lt;/p&gt;
 
-&lt;p&gt;In Vietnam, because of crazy currency rates, were spending millions of &lt;em&gt;Dangs&lt;/em&gt; on meals already, for a few thousand rupees.
-AirBnBs were again handy all throughout Vietnam. We stayed with a local mom-pop shop owner in Hoi An. She got us food, laudry, cheap motorcycles, and comfortable beds. They were very helpful. Our stay in Ho Chi Minh City was &lt;a href=&quot;http://www.bestrent.vn/property/the-gold-view-apartment-for-rent/&quot;&gt;here&lt;/a&gt;, well connected, comfortable and a well stuffed house.&lt;/p&gt;
+&lt;p&gt;In Vietnam, because of the crazy currency rates, were spending millions of &lt;em&gt;Dongs&lt;/em&gt; on meals already, for a few thousand rupees. The communist country has good infrastructure but, visibly, there’s no money with poeple. With a much discussed about past, this was a fascinating experience. They watch dubbed Indian shows, play football and chill out by the beach. The contrast between North and South Vietnam could be felt when we went from historically communist heavy Ha Noi to slighltly more capitalist Ho Chi Minh City, via Hoi An and Da Nang. Banh Mi, a delicious, cheap and filling sandwitch saved me. Definitely, a must try.&lt;/p&gt;
 
-&lt;p&gt;So, yeah, planed well, can do a lot being under the budget.&lt;/p&gt;
+&lt;p&gt;AirBnBs were again handy all throughout Vietnam. We stayed with a local mom-pop shop owner in Hoi An. She got us food, beers, laundry, cheap motorcycles, and comfortable beds. They were very helpful. Our stay in Ho Chi Minh City was &lt;a href=&quot;http://www.bestrent.vn/property/the-gold-view-apartment-for-rent/&quot;&gt;here&lt;/a&gt;, well connected, comfortable and a well stuffed house.&lt;/p&gt;
+
+&lt;p&gt;So, yeah, planned well, can do a lot being under the budget.&lt;/p&gt;
 
 &lt;p&gt;From: &lt;a href=&quot;https://www.quora.com/profile/Shantanu-Prakash/answers&quot;&gt;Shantanu’s Answers on Quora&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -42,9 +43,9 @@ AirBnBs were again handy all throughout Vietnam. We stayed with a local mom-pop 
  
  <entry>
    <title>Example content</title>
-   <link href="http://localhost:4000/2016/01/02/example-content/"/>
+   <link href="https://shantanuprakash3.github.io//2016/01/02/example-content/"/>
    <updated>2016-01-02T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2016/01/02/example-content</id>
+   <id>https://shantanuprakash3.github.io//2016/01/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;

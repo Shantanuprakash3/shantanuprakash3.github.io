@@ -5,7 +5,7 @@ title: projects
 
 -----
 
-Algorithms, Machine intelligence and entreprenership. Fascinated by computing and internet capabilites since I got exposed to programming in college. As my hands got dirtier, started appreciating the beauty of code and systems in the academia and industry. Have grown up reading anything and everything I could lay my hands on.
+Algorithms, Machine intelligence and entreprenership. Fascinated by computing and internet capabilites since I got exposed to programming in college. As my hands got dirtier, started appreciating the beauty of code and systems in the academia and industry.
 
 -----
 
