@@ -1,8 +1,11 @@
-The great lockdowns of 2020
+---
+layout: post
+title: The great lockdowns of 2020
+---
 
-A conscious specie had evolved in its own speed for thousands of years, gaining sentience, moulding insentient things for her own convenience. But every now and then, the inanimate fights back, letting the conscious beings know they're just a tiny fraction of the same.
+A conscious specie had evolved for thousands of years, gaining sentience, moulding insentient things for her own convenience. Like winning a race of containing entropy into consciousness, of course with support of everything on earth. But every now and then, the inanimate fights back, letting the conscious beings know they're just a tiny fraction of the same.
 
-Whenever nature has exerted her power on humans, the crisis has paved way for a new trajectory of growth. The year 2020 was one such, the entire humanity was jailed by nature. To retrospect and think in solitude and dormancy, to look inside and figure out problems. The time when highest percentage of people had access to information, and the genetic ability to comprehend and synthesise more. Tough, crazy. Answer the fundamental questions. Tougher.
+Whenever nature has exerted her power on humans, the crisis has paved way for a new trajectory of growth. The year 2020 was one such, the entire humanity was sent to a retreat by nature. To retrospect and think in solitude and dormancy, to look inside - backtrack. The time when highest percentage of people had access to information, and the genetic ability to comprehend and synthesise more. Tough, crazy. Answer the fundamental questions. Tougher.
 
 I always wonder what has brought us here, what will take us forward, and/or what will cause our downfall.
 
